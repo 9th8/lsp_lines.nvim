@@ -1,8 +1,3 @@
-# lsp_lines.nvim
-
-`lsp_lines` is a simple neovim plugin that renders diagnostics using virtual
-lines on top of the real line of code.
-
 # Installation
 
 ```lua
